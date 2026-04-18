@@ -39,4 +39,4 @@ Which genres, publishers, and platforms drive the most revenue, and how should a
 Video Game Sales dataset (Kaggle)
 
 ## 📌 Author
-Your Name
+Musty
